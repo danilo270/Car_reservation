@@ -1,0 +1,16 @@
+C:\Users\legaz\source\repos\Projekat_tvp\Projekat_tvp\bin\Debug\Projekat_tvp.exe.config
+C:\Users\legaz\source\repos\Projekat_tvp\Projekat_tvp\bin\Debug\Projekat_tvp.exe
+C:\Users\legaz\source\repos\Projekat_tvp\Projekat_tvp\bin\Debug\Projekat_tvp.pdb
+C:\Users\legaz\source\repos\Projekat_tvp\Projekat_tvp\obj\Debug\Projekat_tvp.csprojAssemblyReference.cache
+C:\Users\legaz\source\repos\Projekat_tvp\Projekat_tvp\obj\Debug\Projekat_tvp.Administracija.resources
+C:\Users\legaz\source\repos\Projekat_tvp\Projekat_tvp\obj\Debug\Projekat_tvp.Form1.resources
+C:\Users\legaz\source\repos\Projekat_tvp\Projekat_tvp\obj\Debug\Projekat_tvp.Properties.Resources.resources
+C:\Users\legaz\source\repos\Projekat_tvp\Projekat_tvp\obj\Debug\Projekat_tvp.csproj.GenerateResource.cache
+C:\Users\legaz\source\repos\Projekat_tvp\Projekat_tvp\obj\Debug\Projekat_tvp.csproj.CoreCompileInputs.cache
+C:\Users\legaz\source\repos\Projekat_tvp\Projekat_tvp\obj\Debug\Projekat_tvp.exe
+C:\Users\legaz\source\repos\Projekat_tvp\Projekat_tvp\obj\Debug\Projekat_tvp.pdb
+C:\Users\legaz\source\repos\Projekat_tvp\Projekat_tvp\obj\Debug\Projekat_tvp.AdminForma.resources
+C:\Users\legaz\source\repos\Projekat_tvp\Projekat_tvp\obj\Debug\Projekat_tvp.FormaRezervacija.resources
+C:\Users\legaz\source\repos\Projekat_tvp\Projekat_tvp\obj\Debug\Projekat_tvp.FormaKupac.resources
+C:\Users\legaz\source\repos\Projekat_tvp\Projekat_tvp\obj\Debug\Projekat_tvp.IzmenaRezervacija.resources
+C:\Users\legaz\source\repos\Projekat_tvp\Projekat_tvp\obj\Debug\Projekat_tvp.PonudaIzmena.resources
